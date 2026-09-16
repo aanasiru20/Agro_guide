@@ -1,0 +1,29 @@
+# 1. Environment Variables (NEVER upload API keys)
+.env
+.env.local
+.env.development
+.env.production
+
+# 2. Python & Virtual Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# 3. Datasets & Large Audio Files (GitHub blocks >100MB)
+*.parquet
+data/audio/
+*.wav
+*.mp3
+
+# 4. Node.js & Frontend Build Files
+node_modules/
+.next/
+build/
+out/
+dist/
+
+# 5. OS Generated Files
+.DS_Store
+Thumbs.db*

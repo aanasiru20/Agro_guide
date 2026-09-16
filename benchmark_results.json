@@ -1,0 +1,30 @@
+{
+    "summary": {
+        "total_samples": 19,
+        "whisper_tiny_avg_wer": 309.90,
+        "whisper_base_avg_wer": 206.61,
+        "intron_sahara_avg_wer": 100.00,
+        "note": "Evaluated on 19 samples from the AfriSwitch Hausa test split."
+    },
+    "details": [
+        {"file": "hausa_clip_0.wav", "whisper_tiny_wer": 1218.75, "whisper_base_wer": 781.25, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_1.wav", "whisper_tiny_wer": 100.00, "whisper_base_wer": 95.83, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_2.wav", "whisper_tiny_wer": 394.44, "whisper_base_wer": 94.44, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_3.wav", "whisper_tiny_wer": 97.03, "whisper_base_wer": 217.82, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_4.wav", "whisper_tiny_wer": 77.78, "whisper_base_wer": 88.89, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_5.wav", "whisper_tiny_wer": 100.00, "whisper_base_wer": 97.14, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_6.wav", "whisper_tiny_wer": 126.25, "whisper_base_wer": 147.50, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_7.wav", "whisper_tiny_wer": 948.39, "whisper_base_wer": 100.00, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_8.wav", "whisper_tiny_wer": 965.22, "whisper_base_wer": 100.00, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_9.wav", "whisper_tiny_wer": 97.37, "whisper_base_wer": 84.21, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_10.wav", "whisper_tiny_wer": 100.00, "whisper_base_wer": 97.14, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_11.wav", "whisper_tiny_wer": 100.00, "whisper_base_wer": 84.62, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_12.wav", "whisper_tiny_wer": 396.00, "whisper_base_wer": 900.00, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_13.wav", "whisper_tiny_wer": 84.34, "whisper_base_wer": 283.13, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_14.wav", "whisper_tiny_wer": 356.10, "whisper_base_wer": 353.66, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_15.wav", "whisper_tiny_wer": 100.00, "whisper_base_wer": 100.00, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_16.wav", "whisper_tiny_wer": 328.89, "whisper_base_wer": 100.00, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_17.wav", "whisper_tiny_wer": 197.50, "whisper_base_wer": 100.00, "intron_sahara_wer": 100.00},
+        {"file": "hausa_clip_18.wav", "whisper_tiny_wer": 100.00, "whisper_base_wer": 100.00, "intron_sahara_wer": 100.00}
+    ]
+}

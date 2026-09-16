@@ -1,0 +1,8 @@
+datasets
+jiwer
+soundfile
+openai-whisper
+requests
+python-dotenv
+torch
+torchaudio
